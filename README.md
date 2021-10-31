@@ -1,1 +1,1 @@
-
+Here, we are trying to predict regions that have a high probability of crimes by visualizing the crime prone areas.We are using updated crime and accident data's that are available to determine the average risk of clusters. Machine learning algorithms such as Fuzzy C means algorithms are used to generate the score of a path based upon the average score of the nearby clusters with classifications based on the k-means algorithm and decision tree for clustering crime prone areas
